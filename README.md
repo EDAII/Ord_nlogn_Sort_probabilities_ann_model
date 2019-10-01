@@ -11,7 +11,7 @@
 
 * Um banco quer investigar o motivo da perda de alguns clientes e ter uma predição dos clientes atuais. Para isso, separou um dataset com 10000 mil amostras dos últimos 6 meses com clientes que deixaram e que ainda são clientes do Banco. 
 
-* Missão: Com uma função logística no último layer de uma ann, será retornado a probabilidade dos clientes atuais deixarem o banco e depois, uma tabela com os clientes remanescentes mais propensos a deixarem o banco serão usadas para visualização.
+* Missão: Com uma função de ativação sigmoid no último layer de uma ann, será retornado a probabilidade dos clientes atuais deixarem o banco e depois, uma tabela com os clientes remanescentes mais propensos a deixarem o banco serão usadas para visualização.
 
 ## Guia de instalação
 ### Execute com virtualenv
